@@ -4,3 +4,4 @@ function happyHolikdays() {
   if (string === happyHolidays) {
   return "Happy Holidays!"
 }
+}
