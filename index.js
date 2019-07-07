@@ -1,6 +1,6 @@
 // write your code below!
 
-function happyHolikdays() {
+function happyHolikdays(string) {
   if (string === happyHolidays) {
   return "Happy Holidays!"
 }
